@@ -8,7 +8,7 @@ Para ello se pondran a cargo un grupo de 4 integrantesa los cuales estaran encar
 
 > Flahimir James Marin Castellanos Rol: Scrum Master
 
-> Milena Guayacán Rol: Analista
+> Sandra Milena Guayacán Rol: Analista
 
 > Yenderson Sanchez Galindo Rol : Desarrollador
 
