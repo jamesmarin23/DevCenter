@@ -6,7 +6,10 @@ Para ello se pondran a cargo un grupo de 4 integrantesa los cuales estaran encar
 
 # Integrantes:
 
--Flahimir James Marin Castellanos Rol: Scrum Master
--Milena Guayacán Rol: Analista
--Yenderson Sanchez Galindo Rol : Desarrollador
--Mayra Vargas Artunduaga Rol: Product Owner
+> Flahimir James Marin Castellanos Rol: Scrum Master
+
+> Milena Guayacán Rol: Analista
+
+> Yenderson Sanchez Galindo Rol : Desarrollador
+
+> Mayra Vargas Artunduaga Rol: Product Owner
