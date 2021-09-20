@@ -1,10 +1,10 @@
 # DevCenter
 Proyecto ciclo 3
 
-Integrantes:
+# Integrantes:
 
-Flahimir James Marin Castellanos
-Milena Guayacán 
-Yenderson Sanchez Galindo
-Mayra Vargas Artunduaga
+>Flahimir James Marin Castellanos
+>Milena Guayacán 
+>Yenderson Sanchez Galindo
+>Mayra Vargas Artunduaga
 
