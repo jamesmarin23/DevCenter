@@ -1,23 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import DashBoard from './Vistas/DashBoard';
+import Login from './Vistas/Login';
+
+import Model from './Model';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {
+        (Model.getUser()) ? <DashBoard /> : <Login />
+      }
     </div>
   );
 }
