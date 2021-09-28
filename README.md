@@ -14,6 +14,8 @@ Para ello se pondran a cargo un grupo de 4 integrantesa los cuales estaran encar
 
 > Mayra Vargas Artunduaga Rol: Product Owner
 
+> Andrés Felipe Jiménez Sánchez Rol: Administrador de BD
+
 Para este proyecto el software tendrá 4 módulos los cuales estarán discriminados de la siguiente forma:
 
 
