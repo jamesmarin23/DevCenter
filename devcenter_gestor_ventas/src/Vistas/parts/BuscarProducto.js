@@ -1,17 +1,26 @@
-import React, {Component} from "react";
+import React, { Component } from "react";
 
-export class BuscarProducto extends Component{
-    constructor (props){
+export class BuscarProducto extends Component {
+    constructor(props) {
         super(props);
         this.state = {};
     }
-    render(){
-        return(
+    render() {
+        return (
             <div>
-                <div classname = "row">
+                <div classname="row">
                     <div className="col">
-                      Lista de Productos
-                        
+                        Lista de Productos
+                        <table classname="table table-bordered">
+                            <thead>
+                                <th scope="col">
+                                    Codigo
+                                </th>
+                                <th scope="col">
+                                    Nombre
+                                </th>
+                            </thead>
+                        </table>
                     </div>
                 </div>
                 <div className="row">
