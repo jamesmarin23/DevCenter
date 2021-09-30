@@ -9,7 +9,13 @@ export class BuscarProducto extends Component{
         return(
             <div>
                 <div classname = "row">
-                    
+                    <div className="col">
+                      Lista de Productos
+                        
+                    </div>
+                </div>
+                <div className="row">
+
                 </div>
             </div>
         );

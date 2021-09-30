@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 import ActivarEmpresa from "./parts/RegistrarVenta";
+import BuscaProductos from "./parts/BuscarProducto";
 
 import Model from '../Model';
 
@@ -123,9 +124,9 @@ export class DashBoard extends Component {
                                                     <Route path="/Vender" children={<ActivarEmpresa></ActivarEmpresa>}>
                                                     </Route>
                                                     {/* <Route path="/NuevoProducto" children={<NuevoProducto></NuevoProducto>}>
-                                                    </Route>
-                                                    <Route path="/ListaProductos" children={<ListaProductos></ListaProductos>}>
                                                     </Route> */}
+                                                    <Route path="/ListaProductos" children={<BuscaProductos></BuscaProductos>}>
+                                                    </Route>
                                                 </Switch>
 
                                             </div>
